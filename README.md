@@ -12,15 +12,16 @@ To combat the issues and deficiencies previously noted, we developed an ADS Fram
 
 The ADS Framework has the following sections, each which must be completed prior to production implementation:
 
-* Goal
-* Categorization
-* Strategy Abstract
+* Detection Number
+* Detection Name
+* Objective
+* MITRE Mapping
 * Technical Context
-* Blind Spots and Assumptions
-* False Positives
-* Validation
-* Priority
-* Response
+* Detection Logic
+* Detection Query
+* Caveats & False Positives
+* Investigation & Response
+* Additional Resources
 
 Each section is required to successfully deploy a new ADS, and guarantees that any given alert will have sufficient documentation, will be validated for durability, and reviewed prior to production deployment. 
 
